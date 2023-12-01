@@ -1,0 +1,341 @@
+[
+    {
+        "id": "lubChocolate",
+        "titulo": "Lub Caliente Sen Intimo Chocolate",
+        "imagen": "./img/lubricantes/Lub Caliente Sen Intimo Chocolate.png",
+        "categoria": {
+            "nombre": "LUBRICANTES",
+            "id": "lubricantes"
+        },
+        "precio": 32000
+    },
+    {
+        "id": "lubCremadeWhisky",
+        "titulo": "Lub Caliente Sen Intimo Crema de Whisky",
+        "imagen": "./img/lubricantes/Lub Caliente Sen Intimo Crema de Whisky.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 32000
+    },
+    {
+        "id": "powersexBlisterx1pills",
+        "titulo": "Powersex Blister x 1 pill",
+        "imagen": "./img/retardantes/Powersex Blister x 20 pills.png",
+        "categoria": {
+            "nombre": "RETARDANTES",
+            "id": "retardantes"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "BolasAnalesSatisfyerBeads",
+        "titulo": "Bolas Anales Satisfyer Beads",
+        "imagen": "./img/consoladores/Bolas Anales Satisfyer Beads.png",
+        "categoria": {
+            "nombre": "CONSOLADORES",
+            "id": "consoladores"
+        },
+        "precio": 139900
+    },
+    {
+        "id": "lubCafeMoka",
+        "titulo": "Lub Caliente Sen Intimo Café Moka",
+        "imagen": "./img/lubricantes/Lub Caliente Sen Intimo Café Moka.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 32000
+    },
+    {
+        "id": "lubAnal",
+        "titulo": "Adormecedor Anal y Lubricante Sen 30ml",
+        "imagen": "./img/lubricantes/Adormecedor Anal y Lubricante Sen 30ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 42000
+    },
+    {
+        "id": "powersexBlisterx20pills",
+        "titulo": "Powersex Blister x 20 pills",
+        "imagen": "./img/retardantes/Powersex Blister x 20 pills.png",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 39900
+    },
+    {
+        "id": "lubMulti",
+        "titulo": "Multiorgasmico Sen 30ml",
+        "imagen": "./img/lubricantes/Multiorgasmico Sen 30ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 42000
+    },
+    {
+        "id": "gelVoluPower X",
+        "titulo": "Gel Voluminizante Power X",
+        "imagen": "./img/retardantes/Gel Voluminizante Power X.png",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "lubMulti",
+        "titulo": "Multiorgasmico Sen 10ml",
+        "imagen": "./img/lubricantes/Multiorgasmico Sen 10ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 27000
+    },
+    {
+        "id": "lubEstre",
+        "titulo": "Estrechante Sen Corazón 10ml",
+        "imagen": "./img/lubricantes/Estrechante Sen Corazón 10ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 27000
+    },
+    {
+        "id": "sexBullPastilla",
+        "titulo": "Sex Bull Pastilla x 1 Unidad",
+        "imagen": "./img/retardantes/Sex Bull Pastilla x 15 Unidades.png",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "potenFemMaxifemd",
+        "titulo": "Potenciador Femenino Maxifemd",
+        "imagen": "./img/retardantes/Potenciador Femenino Maxifemd.png",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "lubAnalPequeño",
+        "titulo": "Adormecedor y Lubricante Anal Sen 10ml",
+        "imagen": "./img/lubricantes/Adormecedor y Lubricante Anal Sen 10ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 27000
+    },
+    {
+        "id": "estifemQ-Volta-G",
+        "titulo": "Estimulante femenino Q-Volta-G",
+        "imagen": "./img/retardantes/Estimulante femenino Q-Volta-G.png",
+        "categoria": {
+            "id": "retardantes"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "lubCaramelo",
+        "titulo": "Lub Caliente Sen Intimo Caramelo",
+        "imagen": "./img/lubricantes/Lub Caliente Sen Intimo Caramelo.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 32000
+    },
+        {
+        "id": "lubMulti",
+        "titulo": "Multiorgasmico Sen 30ml",
+        "imagen": "./img/lubricantes/Multiorgasmico Sen 30ml.png",
+        "categoria": {
+            "id": "lubricantes"
+        },
+        "precio": 27000
+    },
+    {
+        "id": "bolasChinasAnalesde14cm",
+        "titulo": "Bolas Chinas Anales de 14cm",
+        "imagen": "./img/consoladores/Bolas Chinas Anales de 14cm.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 49900
+    },
+    {
+        "id": "fundaMediumPrettyLove",
+        "titulo": "Funda Medium Pretty Love",
+        "imagen": "./img/consoladores/Funda Medium Pretty Love.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 49000
+    },
+    {
+        "id": "fundaConejoPrettyLove",
+        "titulo": "Funda Conejo Pretty Love",
+        "imagen": "./img/consoladores/Funda Conejo Pretty Love.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 129000
+    },
+    {
+        "id": "dildoEyaculadorCockWith",
+        "titulo": "Dildo Eyaculador Cock With",
+        "imagen": "./img/consoladores/Dildo Eyaculador Cock With.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 229000
+    },
+    {
+        "id": "satisfyerPro2Original",
+        "titulo": "Satisfyer Pro 2 Original",
+        "imagen": "./img/consoladores/Satisfyer Pro 2 Original.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 450000
+    },
+    {
+        "id": "succionadorClitorialSucking",
+        "titulo": "Succionador Clitorial Sucking",
+        "imagen": "./img/consoladores/Succionador Clitorial Sucking.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 309000
+    },
+    {
+        "id": "plugdeAceroconjoya",
+        "titulo": "Plug de Acero con joya",
+        "imagen": "./img/consoladores/Plug de Acero con joya.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 69000
+    },
+    {
+        "id": "plugAceroconColadeZorro",
+        "titulo": "Plug Acero con Cola de Zorro",
+        "imagen": "./img/consoladores/Plug Acero con Cola de Zorro.png",
+        "categoria": {
+            "id": "consoladores"
+        },
+        "precio": 79900
+    },
+
+
+
+
+
+
+
+
+    {
+        "id": "LovetoyFundaDobleVibradora",
+        "titulo": "Lovetoy Funda Doble Vibradora",
+        "imagen": "./img/vibradores/Lovetoy Funda Doble Vibradora.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 179000
+    },
+    {
+        "id": "balaVibradoraSencilla",
+        "titulo": "Bala Vibradora Sencilla",
+        "imagen": "./img/vibradores/Bala Vibradora Sencilla.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 49900
+    },
+        {
+        "id": "huevoInalámbricoCandy",
+        "titulo": "Huevo Inalámbrico Candy",
+        "imagen": "./img/vibradores/Huevo Inalámbrico Candy.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 149000
+    },
+    {
+        "id": "huevoPandoraControlRemoto",
+        "titulo": "Huevo Pandora Control Remoto",
+        "imagen": "./img/vibradores/Huevo Pandora Control Remoto.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 95000
+    },
+    {
+        "id": "abnerHuevoInalámbrico",
+        "titulo": "Abner Huevo Inalámbrico",
+        "imagen": "./img/vibradores/Abner Huevo Inalámbrico.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 390000
+    },
+    {
+        "id": "vibradorDobleAlgernon",
+        "titulo": "Vibrador Doble Algernon",
+        "imagen": "./img/vibradores/Vibrador Doble Algernon.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 275000
+    },
+    {
+        "id": "masajeadorProstáticoconVibración",
+        "titulo": "Masajeador Prostático con Vibración",
+        "imagen": "./img/vibradores/Masajeador Prostático con Vibración.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 229000
+    },
+    {
+        "id": "estimuladorLovenseEdge2",
+        "titulo": "Estimulador Lovense Edge 2",
+        "imagen": "./img/vibradores/Estimulador Lovense Edge 2.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 679000
+    },
+    {
+        "id": "termicoPlugAnalPrimoSvakom",
+        "titulo": "Termico Plug Anal Primo Svakom",
+        "imagen": "./img/vibradores/Termico Plug Anal Primo Svakom.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 409000
+    },
+    {
+        "id": "winyiMasajeadorOscar",
+        "titulo": "Winyi Masajeador Oscar",
+        "imagen": "./img/vibradores/Winyi Masajeador Oscar.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 429000
+    },
+    {
+        "id": "estimuladorUltimateWand25cm",
+        "titulo": "Estimulador Ultimate Wand 25cm",
+        "imagen": "./img/vibradores/Estimulador Ultimate Wand 25cm.png",
+        "categoria": {
+            "id": "vibradores"
+        },
+        "precio": 289000
+    }
+
+
+]
+
+    
